@@ -1,0 +1,28 @@
+{
+  "name": "project-directory-page-handlebars",
+  "version": "1.0.0",
+  "description": "Showcase your web portfolio with this simple handebars application, perfect for ONLINE WEB CRAWLERS. You will have to be able to have control of the server.js file but still.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lozzoc/project-directory-page-handlebars.git"
+  },
+  "keywords": [
+    "handlebars",
+    "portfolio",
+    "reactjs"
+  ],
+  "author": "github@lozzoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lozzoc/project-directory-page-handlebars/issues"
+  },
+  "homepage": "https://github.com/lozzoc/project-directory-page-handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  }
+}

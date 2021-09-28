@@ -133,6 +133,8 @@
 }
 
 #flipside:hover{
+
+border:2px solid whitesmoke;
   content: url("flipsided-coin.png");
 }
 
