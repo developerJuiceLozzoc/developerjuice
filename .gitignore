@@ -1,2 +1,4 @@
 node_modules
 certs
+server/config.js
+server/jwt-private-config.json
